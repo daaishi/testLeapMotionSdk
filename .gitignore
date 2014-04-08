@@ -1,0 +1,12 @@
+*.mode*
+*.perspectivev3
+*.pbxuser
+*.xcworkspace
+xcuserdata/
+
+build/
+obj/
+*.o
+*.app
+
+.DS_Store
